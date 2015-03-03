@@ -25,7 +25,7 @@ My name is Jordan Cameron, and am currently 19 years old.  I am a first year uni
 
 With the help of my incredibly supportive parents, and other beautiful people in my life, I have managed to slowly acquire the skills I need to function in the everyday world.  However, not all Autistic people are as lucky.
 
-If you have any questions or concerns, or just want to get in touch, feel free to email me at jcameron@aspergercloud.xyz
+If you have any questions or concerns, or just want to get in touch, feel free to email me at <jcameron@aspergercloud.xyz>
 
 
 
