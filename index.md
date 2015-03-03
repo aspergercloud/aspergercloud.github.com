@@ -5,7 +5,7 @@ tagline: Promoting Equality for all
 ---
 Welcome to the Asperger Cloud Blog!  This blog is intended to promote equality for all people, and to help explain the world from the view of myself, a young adult who was diagnosed with Aspergers/Autism at the age of nine.
 
-In this blog, I will describe the things that irritate me, bewilder me, entrall me and amaze me.  However, just because this is my point of view, it does not mean that every Asperger's person feels the same way.  Remember, we are all unique as well!
+In this blog, I will describe the things that irritate me, bewilder me, enthrall me and amaze me.  However, just because this is my point of view, it does not mean that every Asperger's person feels the same way.  Remember, we are all unique as well!
 
 I will also talk about various foundations and projects that are helping people like myself live with our diabilities.  I do not expect that this blog will become popular, but that is ok.  As long as someone sees the messages I have, I will be happy.
 
