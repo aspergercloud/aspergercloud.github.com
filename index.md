@@ -12,11 +12,13 @@ I will also talk about various foundations and projects that are helping people 
 This blog is not run for profit.  I do not accept donations or any kind of support.  It is merely meant to raise awareness of Autism and other mental disorders, and to help promote equality for all people regardless of mental status, gender, age or any other factor.
 
 Here is a list of posts:
+
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
 
 # About Me
 My name is Jordan Cameron, and am currently 19 years old.  I am a first year university student studying to become a High School Teacher.  I was diagnosed at age 9 with Autism Spectrum Disorder, or more specifically, Aspergers/High functioning autism.
