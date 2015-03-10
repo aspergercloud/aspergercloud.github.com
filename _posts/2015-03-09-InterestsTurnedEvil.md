@@ -1,4 +1,5 @@
 ---
+title: Interests turned Evil
 layout: post
 tagline: Interested, or Obsessed.
 categories: Living,Thoughts
